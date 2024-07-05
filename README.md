@@ -25,7 +25,7 @@ To get started with this project, follow these steps:
 3. Drag tasks between columns to change their status.
 
 ### Demo
-A live demo of this project can be accessed via [GitHub Pages](https://osama206.github.io/drag-and-drop).
+A live demo of this project can be accessed via GitHub Pages [here](https://osama206.github.io/kanban-board).
 
 ### Files Included
 - `index.html`: HTML structure of the Kanban board.
